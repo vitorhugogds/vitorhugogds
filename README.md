@@ -18,7 +18,8 @@ Desenvolvi um aplicativo mobile como parte de um projeto acadêmico para ajudar 
 - **Email:** [hugov2960@gmail.com](mailto:hugov2960@gmail.com)
 
 ## 🎨 Layout
-Para tornar seu README ainda mais atraente, você pode adicionar imagens, badges e até mesmo personalizar com CSS se usar o GitHub Pages. Por exemplo, você pode adicionar uma imagem de fundo ou um badge de seu status em algum serviço.
+
+![devMeme](https://github.com/user-attachments/assets/8bd24bc6-0c7d-4459-9fba-e46ef533157a)
 
 ![minato-naruto-boruto](https://github.com/user-attachments/assets/6546f3ac-b963-4d11-ab39-dfcdf5100d0a)
 
