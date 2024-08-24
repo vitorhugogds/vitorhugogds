@@ -21,8 +21,6 @@ Desenvolvi um aplicativo mobile como parte de um projeto acadêmico para ajudar 
 
 ![devMeme](https://github.com/user-attachments/assets/8bd24bc6-0c7d-4459-9fba-e46ef533157a)
 
-![minato-naruto-boruto](https://github.com/user-attachments/assets/6546f3ac-b963-4d11-ab39-dfcdf5100d0a)
-
 ---
 
 Obrigado por visitar meu perfil! 😊
