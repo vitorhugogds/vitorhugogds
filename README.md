@@ -1,10 +1,10 @@
-# Olá, eu sou Victor! 👋
+# Olá, eu sou Víctor! 👋
 
 ## Sobre Mim
 Sou um entusiasta de Desenvolvimento Front-End em busca de novas oportunidades para crescer e aprender. Apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou focado em aprender HTML, CSS, JavaScript e aprimorar minhas habilidades em Desenvolvimento Web.
 
 ## 🛠️ Tecnologias e Ferramentas
-- **Linguagens de Programação:** Python, JavaScript, C++, C#
+- **Linguagens Dominantes:** Python, JavaScript, C++, C#, HTML, CSS
 - **Frameworks e Bibliotecas:** React
 - **Ferramentas e Plataformas:** Git
 - **Outros:** Arduino
