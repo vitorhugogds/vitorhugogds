@@ -11,9 +11,14 @@ Sou um entusiasta de Desenvolvimento Front-End em busca de novas oportunidades p
 
 ## 🚀 Projetos Recentes
 ### [FinderPetz](https://github.com/vitorhugogds/FinderPetz.git)
-Desenvolvi um aplicativo mobile como parte de um projeto acadêmico para ajudar um cliente com um petshop a resolver problemas de gestão e atendimento. O aplicativo, criado com React Native, React Navigation, JavaScript e PHP, permite aos clientes agendar consultas e serviços, gerenciar informações sobre os animais e receber notificações sobre tratamentos e lembretes. A solução proporcionou uma melhor organização e experiência tanto para os clientes quanto para a equipe do petshop, sendo bem recebida pelo cliente e contribuindo significativamente para a eficiência do negócio.
+App mobile desenvolvido com React Native + Expo como parte de um projeto acadêmico focado em automação de alimentação para pets.
+O sistema controla um Servo Motor via NodeMCU, com agendamento de horários e status em tempo real. Layout moderno e responsivo, integrando funcionalidades de controle remoto, feedback visual e notificações.
+
+🔧 Tecnologias usadas: React Native, JavaScript, Context API, Nativewind, NodeMCU (ESP8266), Arduino, Servo MG995
+🎯 Objetivo: automatizar a rotina de alimentação de pets e facilitar a vida do tutor.
 
 ## 📫 Como me encontrar
+- **Instagram:** [@vitorhugogds](https://instagram.com/vitorhugogds)
 - **LinkedIn:** [vitorhugogds](https://www.linkedin.com/in/vitorhugogds)
 - **Email:** [hugov2960@gmail.com](mailto:hugov2960@gmail.com)
 
