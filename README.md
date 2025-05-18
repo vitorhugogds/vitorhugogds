@@ -28,4 +28,4 @@ O sistema controla um Servo Motor via NodeMCU, com agendamento de horários e st
 
 ---
 
-Obrigado por visitar meu perfil! 😊
+> Valeu por dar uma olhada no meu perfil! 🚀
